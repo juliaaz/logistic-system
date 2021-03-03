@@ -1,3 +1,6 @@
+"""
+Welcome to the menu module.
+"""
 import sys
 from logic_system import Item, Vehicle, Order, Location, LogisticSystem
 
