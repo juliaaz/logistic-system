@@ -120,6 +120,3 @@ class LogisticSystem:
  Total price: {order.calculateAmount()} UAH.'
             else:
                 return "No such order"
-
-import doctest
-doctest.testmod()
